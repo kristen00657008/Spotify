@@ -32,6 +32,7 @@
 		AB3FD83527C9CA96002FFD15 /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB3FD83427C9CA96002FFD15 /* AudioTrack.swift */; };
 		AB3FD83727C9CA9E002FFD15 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB3FD83627C9CA9E002FFD15 /* Artist.swift */; };
 		AB3FD83927C9CAA8002FFD15 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB3FD83827C9CAA8002FFD15 /* UserProfile.swift */; };
+		AB47BA1227F9C9B300D9E95D /* extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB47BA1127F9C9B300D9E95D /* extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,6 +82,7 @@
 		AB3FD83427C9CA96002FFD15 /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		AB3FD83627C9CA9E002FFD15 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		AB3FD83827C9CAA8002FFD15 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		AB47BA1127F9C9B300D9E95D /* extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -210,6 +212,7 @@
 			children = (
 				AB3FD7E027C9C74F002FFD15 /* AppDelegate.swift */,
 				AB3FD7E227C9C74F002FFD15 /* SceneDelegate.swift */,
+				AB47BA1127F9C9B300D9E95D /* extension.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -384,6 +387,7 @@
 				AB3FD83927C9CAA8002FFD15 /* UserProfile.swift in Sources */,
 				AB3FD7E327C9C74F002FFD15 /* SceneDelegate.swift in Sources */,
 				AB3FD83727C9CA9E002FFD15 /* Artist.swift in Sources */,
+				AB47BA1227F9C9B300D9E95D /* extension.swift in Sources */,
 				AB3FD82927C9CA20002FFD15 /* PlaylistViewController.swift in Sources */,
 				AB3FD81B27C9C9B3002FFD15 /* LibrartViewController.swift in Sources */,
 				AB3FD82727C9CA11002FFD15 /* PlayerViewController.swift in Sources */,
